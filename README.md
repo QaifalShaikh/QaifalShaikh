@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Qaifal Shaikh</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="data" width="400" src="https://user-images.githubusercontent">
+
 - 🔭 I’m currently working on **Data Analytics, Python, Machine Learning & Statistics**
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning : **Data Analyst**
 
-- 👨‍💻 All of my projects are available at [https://github.com/QaifalShaikh](https://github.com/QaifalShaikh)
+- 👨‍💻 All of my projects are available at :  [https://github.com/QaifalShaikh](https://github.com/QaifalShaikh)
 
-- 💬 Ask me about **var topics = [ "Python", "SQL", "Statistics", "Tableau", "Data Analytics" ]**
+- 💬 Ask me about : **var topics = [ "Python", "SQL", "Statistics", "Tableau", "Data Analytics" ]**
 
-- ⚡ Fun fact **I am Funny 😎**
+- ⚡ Fun fact : **I am Funny 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
