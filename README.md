@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Qaifal Shaikh</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img src="![image](https://github.com/user-attachments/assets/e9eb6f35-0308-4175-a32b-324d5642ba78)">
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaifalshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="qaifalshaikh" /> </p>
