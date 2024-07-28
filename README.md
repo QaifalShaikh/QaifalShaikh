@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Qaifal Shaikh</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="data analyst" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhimanshu-commits&psig=AOvVaw1sXz06uP0k9Xk42whJUjTk&ust=1722287014181000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjEnpbQyocDFQAAAAAdAAAAABAS">
+<img align="right" alt="data analyst" width="400" src="https://www.google.com/imgres?q=animated%20data%20analyst%20gif&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Ff8890b3836e5c774ccf3074efabcd95f31dbce1fcf4e0ed8a696f8b43f959eae%2F68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Fhimanshu-commits&docid=P9YCuSnBSrdfGM&tbnid=IA-aRpasDaggTM&vet=12ahUKEwjeg5nD1MqHAxV7wjgGHcEdAAoQM3oECCEQAA..i&w=640&h=640&hcb=2&ved=2ahUKEwjeg5nD1MqHAxV7wjgGHcEdAAoQM3oECCEQAA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaifalshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="qaifalshaikh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
