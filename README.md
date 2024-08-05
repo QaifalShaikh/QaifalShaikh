@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Qaifal Shaikh</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qaifalshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="qaifalshaikh" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=qaifalshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="qaifalshaikh"> </p>
+
+<img align="right" width="400" src="https://github.com/user-attachments/assets/fbf547c5-fc4c-46cd-9868-7d60a9032363">
+
 
 - 🌱 I’m currently learning **Data Analyst**
 
