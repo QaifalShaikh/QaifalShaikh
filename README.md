@@ -4,7 +4,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=qaifalshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="qaifalshaikh"> </p>
 
-<img align="right" width="400" src="https://github.com/user-attachments/assets/fbf547c5-fc4c-46cd-9868-7d60a9032363">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
 - 🌱 I’m currently learning **Data Analyst**
