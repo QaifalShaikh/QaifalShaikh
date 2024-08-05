@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Qaifal Shaikh</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" width="400" src="https://camo.githubusercontent.com/b2d4d7e983c97ca521cc8d6977d9d86d7f2d818e08872db8575eac7959b1a1e0/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323031392f31302f646174612d736369656e63652d67697068792e676966">
+<img align="right" width="300" src="https://camo.githubusercontent.com/b2d4d7e983c97ca521cc8d6977d9d86d7f2d818e08872db8575eac7959b1a1e0/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323031392f31302f646174612d736369656e63652d67697068792e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaifalshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="qaifalshaikh" /> </p>
 
 - 🌱 I’m currently learning **Data Analyst**
@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am Funny 😎**
   
 
-  <br><img align="left" width="400" src="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif">
+  <br><img align="left" width="300" src="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif">
 <br>  
 <h3 align="right">Connect with me:</h3>
 
