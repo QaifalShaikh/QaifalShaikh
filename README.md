@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/QaifalShaikh](https://github.com/QaifalShaikh)
 
-- 💬 Ask me about **analytical skills, attention to detail, proficiency in data manipulation and visualization, and the ability to derive insights from complex datasets.**
+- 💬 Ask me about **Advance Excel, Power Bi, Tableau, MySQL, Python**
 
 - 📫 How to reach me **qaifalshaikh@gmail.com**
 
