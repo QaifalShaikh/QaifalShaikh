@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Qaifal Shaikh</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-![data analysis gif](https://github.com/user-attachments/assets/efd4521e-97d4-4248-a15a-fc9517bdc0a9)
+
 
 - 🔭 I’m currently working on **Data Analytics, Python, Machine Learning & Statistics**
 
