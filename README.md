@@ -1,4 +1,4 @@
-<img align="top" width="1000" src="https://github.com/user-attachments/assets/a9518e9c-b60f-4bd7-bab4-0fac50ec6748">
+<img align="top" width="1000" src="https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif">
 
 <h1 align="center">Hi 👋, I'm Qaifal Shaikh</h1>
 <h3 align="center">A passionate data analyst from India</h3>
