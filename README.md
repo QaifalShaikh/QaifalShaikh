@@ -1,6 +1,6 @@
+<img align="right" height="600" width="1000" src="https://github.com/user-attachments/assets/57cfac6b-ebb1-41de-a477-5e99655748cd">
 <h1 align="center">Hi 👋, I'm Qaifal Shaikh</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-
 <img align="right"  width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
